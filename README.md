@@ -1,10 +1,6 @@
 | [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
 |---|---|
 
-<p align="center">
-  <img width="400" height="auto" src="https://github.com/beatrizmachado07/FluxPro.git" alt="FluxPro" />
-</p>
-
 # 🚀 FluxPro — Sistema Web de Gestão Integrada
 
 O **FluxPro** é um sistema web desenvolvido com o objetivo de centralizar e otimizar a gestão de serviços, produtos e cadastros em um único ambiente moderno, responsivo e intuitivo.
@@ -19,7 +15,6 @@ O FluxPro surgiu com a proposta de substituir processos manuais por uma soluçã
 
 A plataforma foi planejada para oferecer uma experiência simples e acessível em diferentes dispositivos, como desktops, tablets e smartphones.
 
----
 
 # ✨ Funcionalidades
 
@@ -30,7 +25,6 @@ A plataforma foi planejada para oferecer uma experiência simples e acessível e
 - Exibição de informações climáticas através de API
 - Navegação otimizada para diferentes tamanhos de tela
 
----
 
 # 🛠️ Tecnologias Utilizadas
 
@@ -46,13 +40,11 @@ A plataforma foi planejada para oferecer uma experiência simples e acessível e
 - API de CEP
 - API de Clima
 
----
 
 # 🎯 Objetivo
 
 O principal objetivo do FluxPro é facilitar a rotina de gerenciamento através de uma aplicação moderna, organizada e acessível, reduzindo a necessidade de controles manuais e aumentando a produtividade.
 
----
 
 # 📸 Prints do Sistema
 
