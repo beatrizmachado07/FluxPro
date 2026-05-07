@@ -36,7 +36,7 @@ The platform was designed to offer a simple and accessible experience on differe
 - ZIP Code API
 - Weather API
 
-#🎯 Objective
+# 🎯 Objective
 
 The main objective of FluxPro is to facilitate the management routine through a modern, organized, and accessible application, reducing the need for manual controls and increasing productivity.
 
